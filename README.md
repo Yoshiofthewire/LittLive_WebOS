@@ -16,6 +16,8 @@ Copyright (C) 2025
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+Contains code from LG Electronics licensed under Apache 2.0
+
 Litt Live, The Litt Live Logo, station logos and names are property of Litt Live Inc.
 Litt Live's Terms of Service Can be seen at https://littlive.com/tos
 Live Fire Radio Logo based on clip art from Pisut Tardging from https://vecteezy.com
